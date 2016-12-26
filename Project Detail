@@ -1,0 +1,17 @@
+What is WOPP...?
+“WOPP “ stands for Wheelchair Operated by Paralysed Person. "WOPP" will help to make a paralysed person independent for his/her
+mobilization.
+---------------------------------------------------------------------------------
+Problem Statement
+As we know that paralysis is loss of muscle function for one or more muscles. Mainly it is seen that in paralysis the affected person 
+cannot move any of his/her body parts except eyes and that's why he/she always needs a helper to move from one place to another i.e., 
+he/she  always depends on others for mobilization. 
+---------------------------------------------------------------------------------
+Our Solution
+"WOPP" will help to make him/her independent for mobilization."WOPP" will identify the movement of the eye and responds accordingly. 
+The person can control the movement of the wheelchair by the movement of his/her eye.
+---------------------------------------------------------------------------------
+Technology Used
+Image processing technique is used to identify the motion of the eye ball .There is a camera focusing at the eye of the patient which
+continuously sends images to the system and the system analyses the change in the position of the eyeball and then sends the command
+to the microcontroller to control the movement of the wheelchair accordingly.
